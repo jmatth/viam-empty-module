@@ -2,7 +2,7 @@
   "$schema": "https://dl.viam.dev/module.schema.json",
   "module_id": "jmatthviam:empty-generated-module",
   "visibility": "public_unlisted",
-  "url": "",
+  "url": "https://github.com/jmatth/viam-empty-module",
   "description": "Modular generic component: generic_empty_component",
   "applications": null,
   "markdown_link": "README.md",
