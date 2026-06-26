@@ -1,0 +1,13 @@
+{
+  "module_name": "empty-generated-module",
+  "visibility": "public_unlisted",
+  "namespace": "jmatthviam",
+  "language": "go",
+  "resource_type": "component",
+  "resource_subtype": "generic",
+  "model_name": "generic_empty_component",
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2026-06-26T18:43:01.063192895Z",
+  "module_readme_link": "README.md"
+}
